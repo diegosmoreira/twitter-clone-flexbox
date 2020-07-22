@@ -92,7 +92,7 @@ header#main-header div.side input {
     border-radius: 16px;
     font-size: 12px;
     color: #667581;
-    background: #f5f8fa url('/images/search.svg') no-repeat 190px center;
+    background: #f5f8fa url('/twitter-clone-flexbox/images/search.svg') no-repeat 190px center;
 }
 
 div.banner {
